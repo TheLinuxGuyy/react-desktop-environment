@@ -1,0 +1,11 @@
+/home/clive/Desktop/code/unfinished/react-desktop-environment/deskenv/wasm-rs/target/debug/deps/futures_channel-840b42d56e4ebec3.rmeta: /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lib.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lock.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/mod.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/queue.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/oneshot.rs
+
+/home/clive/Desktop/code/unfinished/react-desktop-environment/deskenv/wasm-rs/target/debug/deps/libfutures_channel-840b42d56e4ebec3.rlib: /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lib.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lock.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/mod.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/queue.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/oneshot.rs
+
+/home/clive/Desktop/code/unfinished/react-desktop-environment/deskenv/wasm-rs/target/debug/deps/futures_channel-840b42d56e4ebec3.d: /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lib.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lock.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/mod.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/queue.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/oneshot.rs
+
+/home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lib.rs:
+/home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/lock.rs:
+/home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/mod.rs:
+/home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/mpsc/queue.rs:
+/home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.26/src/oneshot.rs:

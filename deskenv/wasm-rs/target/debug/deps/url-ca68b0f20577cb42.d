@@ -1,0 +1,13 @@
+/home/clive/Desktop/code/unfinished/react-desktop-environment/deskenv/wasm-rs/target/debug/deps/url-ca68b0f20577cb42.rmeta: /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/lib.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/host.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/origin.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/parser.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/path_segments.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/slicing.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/quirks.rs
+
+/home/clive/Desktop/code/unfinished/react-desktop-environment/deskenv/wasm-rs/target/debug/deps/liburl-ca68b0f20577cb42.rlib: /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/lib.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/host.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/origin.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/parser.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/path_segments.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/slicing.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/quirks.rs
+
+/home/clive/Desktop/code/unfinished/react-desktop-environment/deskenv/wasm-rs/target/debug/deps/url-ca68b0f20577cb42.d: /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/lib.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/host.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/origin.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/parser.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/path_segments.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/slicing.rs /home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/quirks.rs
+
+/home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/lib.rs:
+/home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/host.rs:
+/home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/origin.rs:
+/home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/parser.rs:
+/home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/path_segments.rs:
+/home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/slicing.rs:
+/home/clive/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.3.1/src/quirks.rs:
